@@ -58,7 +58,7 @@ The results of these tests confirmed the significance of certain demographic fac
   ![Spending by Marital Status](images/newplot%20(3).png)
 
 - **Impact of Having Children on Spending**: Illustrates how the presence of children in a household influences spending behavior, backed by a Chi-Square test (χ² = 12.34, p = 0.002).
-  ![Children and Spending](images/newplot%204.png)
+  ![Children and Spending](images/newplot%20(4).png)
 
 ## Notebooks
 - [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](Marketing%20Analysis%20Notebook.ipynb)
