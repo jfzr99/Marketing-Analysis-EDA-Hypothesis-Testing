@@ -1,4 +1,4 @@
-# Marketing-Analysis-EDA-Hypothesis-Testing
+# Marketing Campaign Analysis
 Data Preparation, Visual EDA and Statistical Hypothesis Testing
 
 # Executive Summary
@@ -44,4 +44,23 @@ Several hypothesis tests were conducted to validate the observed patterns:
 - **Chi-Square Tests**: Applied to test associations between categorical variables like marital status and spending behavior.
 
 The results of these tests confirmed the significance of certain demographic factors in influencing spending patterns, reinforcing the potential value of targeted marketing campaigns.
+
+## Key Visualizations
+*Below are some of the key visualizations from the analysis:*
+
+- **Income vs. Spending**
+  ![Income vs Spending](./path_to_image/income_vs_spending.png)
+
+- **Age Distribution of Customers**
+  ![Age Distribution](./path_to_image/age_distribution.png)
+
+- **Spending Patterns by Marital Status**
+  ![Spending by Marital Status](./path_to_image/spending_by_marital_status.png)
+
+- **Impact of Having Children on Spending**
+  ![Children and Spending](./path_to_image/children_vs_spending.png)
+
+## Notebooks
+- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/yourrepository/blob/main/path_to_your_notebook.ipynb)
+  - This notebook contains the complete data analysis process, including data preprocessing, feature engineering, exploratory data analysis, and statistical hypothesis testing.
 
