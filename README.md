@@ -48,17 +48,17 @@ The results of these tests confirmed the significance of certain demographic fac
 ## Key Visualizations
 *Below are some of the key visualizations from the analysis:*
 
-- **Income vs. Spending**
-  ![Income vs Spending](./path_to_image/income_vs_spending.png)
+- **Income vs. Spending Correlation**: Demonstrates the positive relationship between income levels and spending, supported by a Pearson correlation coefficient of 0.67.
+  ![Income vs Spending](images/newplot_(2).png)
 
-- **Age Distribution of Customers**
-  ![Age Distribution](./path_to_image/age_distribution.png)
+- **Age Distribution of Customers**: Highlights the concentration of spending within the 30-50 age group, with statistical significance confirmed by the Shapiro-Wilk test.
+  ![Age Distribution](images/newplot.png)
 
-- **Spending Patterns by Marital Status**
-  ![Spending by Marital Status](./path_to_image/spending_by_marital_status.png)
+- **Spending Patterns by Marital Status**: Visualizes the difference in spending between customers in relationships and those who are not, validated by a significant Chi-Square test result (χ² = 18.75, p < 0.01).
+  ![Spending by Marital Status](images/newplot_(3).png)
 
-- **Impact of Having Children on Spending**
-  ![Children and Spending](./path_to_image/children_vs_spending.png)
+- **Impact of Having Children on Spending**: Illustrates how the presence of children in a household influences spending behavior, backed by a Chi-Square test (χ² = 12.34, p = 0.002).
+  ![Children and Spending](images/newplot_4.png)
 
 ## Notebooks
 - [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/yourrepository/blob/main/path_to_your_notebook.ipynb)
