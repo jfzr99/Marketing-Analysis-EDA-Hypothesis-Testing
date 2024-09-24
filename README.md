@@ -49,18 +49,18 @@ The results of these tests confirmed the significance of certain demographic fac
 *Below are some of the key visualizations from the analysis:*
 
 - **Income vs. Spending Correlation**: Demonstrates the positive relationship between income levels and spending, supported by a Pearson correlation coefficient of 0.67.
-  ![Income vs Spending](images/newplot-(2).png)
+  ![Income vs Spending](images/newplot%20(2).png)
 
 - **Age Distribution of Customers**: Highlights the concentration of spending within the 30-50 age group, with statistical significance confirmed by the Shapiro-Wilk test.
   ![Age Distribution](images/newplot.png)
 
 - **Spending Patterns by Marital Status**: Visualizes the difference in spending between customers in relationships and those who are not, validated by a significant Chi-Square test result (χ² = 18.75, p < 0.01).
-  ![Spending by Marital Status](images/newplot-(3).png)
+  ![Spending by Marital Status](images/newplot%20(3).png)
 
 - **Impact of Having Children on Spending**: Illustrates how the presence of children in a household influences spending behavior, backed by a Chi-Square test (χ² = 12.34, p = 0.002).
-  ![Children and Spending](images/newplot-4.png)
+  ![Children and Spending](images/newplot%204.png)
 
 ## Notebooks
-- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](Marketing-Analysis-Notebook.ipynb)
+- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](Marketing%20Analysis%20Notebook.ipynb)
   - This notebook contains the complete data analysis process, including data preprocessing, feature engineering, exploratory data analysis, and statistical hypothesis testing.
 
